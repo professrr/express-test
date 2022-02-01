@@ -1,0 +1,26 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professrr/express-test.git"
+  },
+  "author": "Semenov Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/professrr/express-test/issues"
+  },
+  "homepage": "https://github.com/professrr/express-test#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
