@@ -2,9 +2,9 @@
 
 API будет доступен по `localhost:3000`
 
-[GET] http://localhost:3000/api/v1/exchange?money=`<VALUE>`
+[GET] http://localhost:3000/api/v1/exchange?money=`VALUE`
 
-Эндпоинт принимает единственный query параметр `money`
+Эндпоинт принимает единственный query-параметр `money`
 
 ## Запуск
 
